@@ -1,0 +1,7 @@
+Python is a programming language.
+
+Machine learning enables computers to learn from data.
+
+GitHub is a platform for hosting and managing code repositories.
+
+Artificial intelligence is the simulation of human intelligence by machines.
